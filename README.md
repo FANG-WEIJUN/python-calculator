@@ -13,7 +13,7 @@ A simple calculator application built with Python.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/FANG-WEIJUN/calculator.git
 cd calculator
 python -m venv venv
 .\venv\Scripts\activate
