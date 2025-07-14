@@ -2,43 +2,42 @@
   <img src="https://raw.githubusercontent.com/FANG-WEIJUN/python-calculator/main/calculator_badge.png" width="150" alt="Calculator Logo">
 </p>
 
-# 🧮 Calculator Project
+<h1 align="center">🧮 Python Calculator</h1>
 
-A simple calculator application built with Python.  
-Enjoy a minimal, intuitive GUI calculator — ideal for quick arithmetic operations.
+<p align="center">
+  <a href="https://github.com/FANG-WEIJUN/python-calculator"><img src="https://img.shields.io/badge/Language-Python3.7+-blue.svg"></a>
+  <a href="https://github.com/FANG-WEIJUN/python-calculator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <img src="https://img.shields.io/badge/GUI-Tkinter-orange.svg">
+  <img src="https://img.shields.io/badge/Patches-welcome-brightgreen.svg">
+</p>
 
 ---
 
 ## ✨ Features
 - ➕ Basic arithmetic operations
-- 🖼️ GUI interface using Tkinter
-- 📦 Executable build via PyInstaller
+- 🖼️ Graphical interface using **Tkinter**
+- 📦 Build executable easily with **PyInstaller**
 
 ---
 
 ## 📦 Requirements
 - 🐍 Python 3.7 or higher
-- 📦 PyInstaller (only if you want to build an `.exe`)
+- 📦 [PyInstaller](https://www.pyinstaller.org/) (only required for building `.exe`)
 
 ---
 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/FANG-WEIJUN/calculator.git
-cd calculator
+git clone https://github.com/FANG-WEIJUN/python-calculator.git
+cd python-calculator
 python -m venv venv
-# Windows:
+
+# Windows
 .\venv\Scripts\activate
-# macOS/Linux:
+
+# macOS/Linux
 source venv/bin/activate
+
 pip install -r requirements.txt
 
-## 🚀 Usage
-- ▶️ Run the calculator:
-python calculator.py
-- 📦 Or use the built executable:
-.\dist\calculator.exe
-
-## 📄 License
-This project is licensed under the MIT License.
