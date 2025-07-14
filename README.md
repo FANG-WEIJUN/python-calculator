@@ -34,11 +34,11 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-🚀 Usage
-▶️ Run the calculator:
+## 🚀 Usage
+- ▶️ Run the calculator:
 python calculator.py
-📦 Or use the built executable:
+- 📦 Or use the built executable:
 .\dist\calculator.exe
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
