@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FANG-WEIJUN/calculator/main/calculator_badge.png" width="150" alt="Calculator Logo">
+  <img src="https://raw.githubusercontent.com/FANG-WEIJUN/python-calculator/main/calculator_badge.png" width="150" alt="Calculator Logo">
 </p>
 
 # 🧮 Calculator Project
