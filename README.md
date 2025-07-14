@@ -1,35 +1,44 @@
-# Calculator Project
+<p align="center">
+  <img src="https://imgur.com/a/h5zXeJG" width="150" alt="Calculator Logo">
+</p>
 
-A simple calculator application built with Python.
+# 🧮 Calculator Project
 
-## Features
-- Basic arithmetic operations
-- GUI interface
-- Executable build
+A simple calculator application built with Python.  
+Enjoy a minimal, intuitive GUI calculator — ideal for quick arithmetic operations.
 
-## Requirements
-- Python 3.7+
-- PyInstaller (for building executable)
+---
 
-## Installation
+## ✨ Features
+- ➕ Basic arithmetic operations
+- 🖼️ GUI interface using Tkinter
+- 📦 Executable build via PyInstaller
+
+---
+
+## 📦 Requirements
+- 🐍 Python 3.7 or higher
+- 📦 PyInstaller (only if you want to build an `.exe`)
+
+---
+
+## 🛠️ Installation
+
 ```bash
 git clone https://github.com/FANG-WEIJUN/calculator.git
 cd calculator
 python -m venv venv
+# Windows:
 .\venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
 pip install -r requirements.txt
-```
 
-## Usage
-Run the calculator:
-```bash
+🚀 Usage
+▶️ Run the calculator:
 python calculator.py
-```
-
-Or use the built executable:
-```bash
+📦 Or use the built executable:
 .\dist\calculator.exe
-```
 
-## License
-MIT
+📄 License
+This project is licensed under the MIT License.
